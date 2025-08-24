@@ -237,5 +237,5 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 
 
 
-## ‎![SHAHID-MD] to (https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+SHAHID+MD+OWNER+(+923423706291))
+*SHAHID-MD*
 ```
