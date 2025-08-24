@@ -37,7 +37,7 @@ SHAHID-MD
 <p align="center">
   <a href="https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank">
     <img 
-      src="https://ibb.co/271BWjFd/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
+      s/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
       width="280"
     >
@@ -91,7 +91,7 @@ SHAHID-MD
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>Pairing Server 01</strong>
     </p>
-    <a href="https://khanmd-pair.onrender.com/" target="_blank">
+    <a href="https://Shahid-pair.onrender.com/" target="_blank">
       <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
