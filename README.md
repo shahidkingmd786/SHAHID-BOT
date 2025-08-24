@@ -1,4 +1,4 @@
-![SHAHID-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+SHAHID-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
+I'm![SHAHID-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+SHAHID-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
 ```
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
@@ -227,7 +227,7 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 ## <h2 align="left">⚠️ REMINDER </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- **DISCLAIMER:**- REMEMBER IT If WhatsApp gets banned, I, Owner Erfan, will not be responsible for it.THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- **DISCLAIMER:**- REMEMBER IT If WhatsApp gets banned, I, Owner Shahid, will not be responsible for it.THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
 - MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
 - I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
 
