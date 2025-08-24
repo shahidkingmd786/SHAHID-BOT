@@ -13,11 +13,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/shahidkingmd786/SHAHID-BOT-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/FATIMA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/policeduafatima/FATIMA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/policeduafatima/FATIMA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/policeduafatima/FATIMA-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/shahidkingmd786/SHAHID-BOT-ofc/followers"><img title="Followers" src="https://ibb.co/271BWjFd/github/followers/SHAHID-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/shahidkingmd786/SHAHID-MD/stargazers/"><img title="Stars" src="https://ibb.co/271BWjFd/https://github.com/shahidkingmd786/SHAHID-BOT?color=blue&style=flat-square"></a>
+<a href="https://https://github.com/shahidkingmd786/SHAHID-BOT/network/members"><img title="Forks" src="https://ibb.co/271BWjFd/https://github.com/shahidkingmd786/SHAHID-BOT?color=blue&style=flat-square"></a>
+<a href="https://https://github.com/shahidkingmd786/SHAHID-BOT/"><img title="Size" src="https://ibb.co/271BWjFd/https://github.com/shahidkingmd786/SHAHID-BOT?style=flat-square&color=green"></a>
+<a href="https://github.com/shahidkingmd786/SHAHID-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -62,7 +62,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 -------------
 
-<a href='https://SHAHID-md-khwr.onrender.com/pair' target="_blank">
+<a href='https://shahid-md-khwr.onrender.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FFFB?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
@@ -76,7 +76,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://Shahid-vps.onrender.com" target="_blank"><img src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://Shahid-vps.onrender.com" target="_blank"><img src="https://ibb.co/271BWjFd/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
+*❄️ Deploy SHAHID-Md On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -131,7 +131,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/policeduafatima/FATIMA-MD
+1. Go to https://huggingface.co/space/shahidkingmd786/SHAHID-BOT
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -186,7 +186,7 @@ jobs:
 -------
 
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ SHAHID ᴏꜰᴄ*</h6>
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ  SHAHID-MD*</h6>
 
 </details>
 
@@ -205,7 +205,7 @@ jobs:
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SHAHID KING-MD ː͢  
 
 <p align="">
-<a href='https://wa.me/+923423706291?text=*HELLO+SHAHID KING-MD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+FATIMA-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923423706291?text=*HELLO+SHAHID KING-MD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+SHAHID-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
