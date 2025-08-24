@@ -1,203 +1,275 @@
-# 🤖✨ SHAHID-MD 
-
-</div> 
-<div align="center"> 
-  <a href=""> 
-    <img src="https://ibb.co/271BWjFd" alt="SHAHID-MD" height="300"> 
-  </a> 
-</div>
-
-this is a SHAHID-MD and it's easy to deploy just follow step by step 
-
-First 👇👇👇👇clcik All link
-
-*✅ Fork the Repository (A MUST): [CLICK HERE](https://github.com/shahidkingmd786/SHAHID-BOT//forks)*  
-*⭐ Star the Repo for Motivation: [CLICK HERE](https://github.com/shahidkingmd786/SHAHID-MD/stargazers)*  
-*💾 Download Bot ZIP File: [CLICK HERE](https://github.com/shahidkingmd786/SHAHID-MD/archive/refs/heads/main.zip)*
-
-
-
- **Deploy on [BOT HOSTING PANEL(DISCORD)]: [CLICK HERE](https://bot-hosting.net/?aff=1275699384331)**
-
- </a>
-
-</details>
-
-
-🌐 Don't Have a Hosting Panel Account?
-
-No worries! If you don’t have a hosting panel account, just follow these simple steps:
-
-1. 👉 [*Click Here to Register*](https://bot-hosting.net/login) on the Hosting Panel.  
-2. 🎁 After signing up, you can *collect 10 coins for free every day* just by logging in.  
-3. 🪙 Once you’ve saved enough coins, you can *create a server*.  
-4. 🚀 After creating your server, you’ll be ready to *deploy your bot easily*!
-
-It’s that simple. No coding skills needed — just follow the steps and enjoy your bot live 24/7!
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘖𝘕 𝘗𝘈𝘕𝘌𝘓𝘚</summary>
- 
-1. `Fork` the Repository.
-2. If already forked then `sync` fork repository.
-3. Click on the green `Code` button and click `download as zip`.
-4. `Upload` the script zip file to your `panel`.
-5. `Unarchieve` the uploaded zip file.
-66.and delete the old file which uploaded 
-7. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
-8. Now go to `console` and `start` bot.
-9. Wait for `5-10 mins` to enter your number.
-10. Enter your number when requested to get the pair code.
-11. Enter pair code in link devices in whatsapp.
-12. Deployment successful.
-</details>
- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-
-
-<div align="center">
-
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 4 0 10px #00FFFF, 0 0 25px #0088FF;">
+SHAHID-MD
+</h1>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+king-bot%3F" alt="What is king-bot?" />
-</div>
-
-SHAHID-MD is a **powerful, multi-device WhatsApp bot** packed with **400+ fun and utility commands**, designed to make your WhatsApp groups more entertaining and easier to manage.  
-Created with passion by **Shafi pathan**, it’s built on the robust Baileys library for reliable, lightning-fast WhatsApp automation.
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=00ced1,ff4500,32cd32&center=true&width=400&height=40&lines=Deployment+Guide" alt="Deployment Guide" />
-</div>
-
-🚀 1. Fork the Repository
-
-Click the button below to fork SHAHID-MD repository to your GitHub account.
-
-<p align="left">
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot/forks">
-    <img src="https://github.com/shahidkingmd786/SHAHID-BOT?style=for-the-badge&logo=github&logoColor=white&label=Forks&color=darkgreen" alt="Forks"/>
-  </a>
-</p>
-
-🎉 2. No Manual Pair Code Setup Needed!  
-🧠 You don’t have to open any external pairing links anymore!
-
-✅ Just run your bot on platforms like bot-hosting.net or your VPS, and when the terminal asks, enter your WhatsApp number.
-
-You’ll get a pairing code right there in the terminal.  
-Simply copy that code, paste it into your WhatsApp chat with the bot, and boom — your bot is connected instantly! 💥
-
-No extra steps, no hassle. Just easy setup. 😄
-
-💾 3. Download Bot Zip
-
-<p align="left">
-  <a href="https://github.com/shahidkingmd786/SHAHID-BOT/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download-Zip-blueviolet?style=for-the-badge&logo=github" alt="Download ZIP"/>
-  </a>
-</p>
-
-🛠️ 4. Deployment Help
-
-Watch the tutorial and deploy your bot easily.
-
-<div align="left">
-  <a href="https://youtu.be/iqP_yUA_t6o?si=jC8tEcczM8acv19F">
-    <img src="https://img.shields.io/badge/TUTORIAL-red?style=for-the-badge&logo=youtube" alt="YouTube Tutorial"/>
-  </a><br>
-  <a href="https://bot-hosting.net/?aff=1275699384331403356">
-    <img src="https://img.shields.io/badge/Bothosting%20Panel-green?style=for-the-badge" alt="BOT HOSTING PANEL"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=ff6347,32cd32,ff4500&center=true&width=400&height=40&lines=Reminder" alt="Reminder" />
-</div>
-
-- This bot has **no issues** on the WhatsApp side and works perfectly on **Heroku** — 100% safe and **not banned**.  
-Use it confidently for your WhatsApp groups and activities.
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=1e90ff,ff6347,32cd32&center=true&width=400&height=40&lines=Key+Features" alt="Key Features" />
-</div>
-
-- 💬 Multi-Device WhatsApp Support (latest protocol)  
-- 🧠 Intelligent Auto Replies & Menus  
-- 🎉 400+ Fun & Prank Commands (e.g. `.Shafihack`, `.brainwash`, `.gaydetector`)  
-- 🔧 Group Moderation Tools (promote, ban, manage)  
-- 📁 Media Download & Processing (videos, audios, stickers, images)  
-- 🤖 Fully Customizable (prefix, modes, owner/admin control)  
-- ⚡ Fast & Reliable (Baileys-based, auto reconnect, error handling)
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=ffa500,ff6347,1e90ff&center=true&width=400&height=40&lines=License" alt="License" />
-</div>
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,00aced,1877f2&center=true&width=400&height=40&lines=Contacts" alt="Contacts" />
-</div>
 
 <p align="center">
-  <a href="https://wa.me/923423706291" target="_blank" rel="noopener noreferrer">
-    <img title="WhatsApp Contact" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noopener noreferrer">
-    <img title="Telegram Contact" src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/Shafikhanicfu" target="_blank" rel="noopener noreferrer">
-    <img title="Facebook Profile" src="https://www.facebook.com/shahid.jamali.903750?mibextid=ZbWKwL" alt="Facebook Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://chat.whatsapp.com/Ku0WGSbMrmNAqcBs8Vx3oC?mode=ems_copy_c" target="_blank" rel="noopener noreferrer">
-    <img title="WhatsApp group" src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp group" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://chat.whatsapp.com/Ku0WGSbMrmNAqcBs8Vx3oC?mode=ems_copy_c" target="_blank" rel="noopener noreferrer">
-    <img title="Bot Support Group" src="https://img.shields.io/badge/Bot_Support_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Support Group" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SHAHID;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
 
+<h2 align="center">📊 SHAHID-MD Analytics </h2> 
+
+---
+
 <div align="center">
-  <h3>
+
+<img src="https://komarev.com/ghpvc/?username=Shahid=Profile+Views&color=ff00ff&style=flat-square" />
+<img src="https://github.com/shahidkingmd786/SHAHID-BOT?color=ff00ff&style=flat-square" />
+<img src="https://github.com/shahidkingmd786/SHAHID-BOT?color=ff00ff&style=flat-square" />
+<img src="https://github.com/shahidkingmd786/SHAHID-BOT?color=ff00ff&style=flat-square" />
+<img src="https://github.com/shahidkingmd786/SHAHID-BOT?color=ff00ff&style=flat-square" />
+
+</div>
+
+---
+
+> **Deploy New Version `5.0.0`**  
+
+---
+
+## DEPLOY NEW VERSION
+
+<p align="center"><strong>⚡ VERSION 5.0</strong></p>
+
+<p align="center">
+  <a href="https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&color=ff1493,ff69b4,ff00ff,00ffff,32cd32,ffd700&background=000000&center=true&vCenter=true&width=900&lines=sweetie+haleema%E2%80%99s+support+and+inspiration+turned+ideas+into+reality;Her+belief+fueled+king-bot%E2%80%99s+success;Thanks+for+being+the+spark+behind+it+all.+✨" 
-      alt="haleemah sweetie Support" 
-    />
-  </h3>
+      src="https://ibb.co/271BWjFd/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Deploy Button"
+      width="280"
+    >
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+king+bot+by+SHAHI D+MD;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
-</h3>
+<h2 align="center">🛰️ Deployment Steps</h2>
+
+<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+
+  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
+    <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
+    <a href='https://github.com/shahidkingmd786/SHAHID-BOT/fork' target="_blank">
+      <img src='https://ibb.co/271BWjFd.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+    </a>
+  </div>
+
+</div>
+
+<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+
+  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
+    <p style="color: #ff00ff; font-size: 16px;">📦 Next, deploy using your preferred method (Heroku, Railway, etc.)</p>
+    <ul style="color: #ffffff; line-height: 1.6;">
+      <li>📁 Clone or fork the repository</li>
+      <li>⚙️ Add your <code>.config</code> variables</li>
+      <li>🚀 Deploy using platform buttons or manual setup</li>
+    </ul>
+  </div>
+
+</div>
+  
+---
+
+## 🚀 Pairing Dashboard
+
+> Securely link your device using the official SHAHID-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; padding:20px;">
+
+  <!-- Link 1 -->
+  <div style="background:#0f0f0f; border:2px solid #00FFFF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #00ffff; min-width:250px; text-align:center;">
+    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
+      🔗 <strong>Pairing Server 01</strong>
+    </p>
+    <a href="https://khanmd-pair.onrender.com/" target="_blank">
+      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+    </a>
+  </div>
+  
+---
+
+## 📡 DEPLOYMENT SITES
+
+<p align="center">Deploy your <strong>SHAHID-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repositoryhttps://github.com/shahidkingmd786/SHAHID-BOT" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+## 🚀 Deploy Free on VPS
+
+> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
+
+> ⚠️ Note: After deployment, use the .restart command to improve the bot's performance.
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://khanmd-vps.onrender.com/" target="_blank">
+        <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank">
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank">
+        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/shahidkingmd786/SHAHID-BOT/archive/refs/heads/main.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 
 ---
 
-<p align="center">Made with ❤️ by Shahid Khan — Star the repo if you like it!</p>
+## ✨ SHAHID-MD Features
+
+- 🤖 WhatsApp Multi-Device Support
+- 🔁 Anti-Delete (Text + Media)
+- 🎵 YouTube Audio Downloader
+- 📥 Media Downloader (Instagram, TikTok, etc.)
+- 🧠 AI Chatbot
+- 💬 Group Moderation Commands
+- 📛 Auto Sticker Response
+- 🎮 Word Relay & Game Plugins
+- 👮 Admin Tools (Ban, Kick, Promote)
+- 🌐 Web-based Pairing Interface
+- 📤 Sticker Maker (Image to Sticker)
+
+---
+
+<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
+🪀 OFFICIAL SUPPORT CHANNEL
+</h2>
+
+<div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
+
+<p style="color:#e0e0e0; font-size:14px; font-family:sans-serif;">
+📢 Get updates, fixes, and sneak peeks directly from the official channel.
+</p>
+
+<a href="https://whatsapp.com/channel/0029Vb6GQ0sH5JM5NiaEaS22" target="_blank">
+  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
+🧾 PROJECT STATS SHAHID-MD
+</h2>
+
+<div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
+
+<a href="https://github.com/shahidkingmd786/SHAHID-BOT" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
+🧠 DEVELOPER NOTICE
+</h2>
+
+<div align="center" style="background:#0d0d0d; border:2px dashed #ff00ff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #ff00ff;">
+
+<p style="color:#ffffff; font-size:15px; font-family:sans-serif;">
+🚫 This project is <strong>NOT FOR SALE</strong> and is provided for educational and personal use only.<br><br>
+📛 <strong>Do not use without giving proper credit</strong> to the original author.<br><br>
+🛑 Unauthorized selling, re-uploading, or branding as your own is strictly prohibited.
+</p>
+
+</div>
+
+---
+
+## 📜 DISCLAIMER
+
+<div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
+
+<h3 style="color:#00ffff; font-family:monospace;">📌 Read Carefully</h3>
+
+<p style="color:#ffffff; font-size:14px;">
+This bot is <strong>not affiliated with WhatsApp Inc.</strong><br>
+Use at your own risk. We are <strong>not responsible</strong> for any misuse, abuse, or ban that results from improper use.<br>
+Inspired by the original work of <strong>Balleys</strong>, and enhanced by the community.
+</p>
+
+</div>
+
+---
+
+## 📝 LICENSE
+
+<div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
+
+<p style="color:#ffffff; font-size:14px;">
+This project is licensed under the <strong>Apache License 2.0</strong><br>
+You are free to use, modify, and distribute it under the terms of this license.
+</p>
+
+<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-ff69b4?style=for-the-badge&logo=apache" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">🙏 Thanks for using!</h3>
+<p align="center">
+  If you like this project, consider giving it a ⭐ on GitHub.<br>
+  Made with ❤️ by <a href="https://github.com/shahidkingmd786/SHAHID-BOT">ShahidTechX</a>
+</p>
