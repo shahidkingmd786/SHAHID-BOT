@@ -158,25 +158,25 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </div>
 
 <p align="center">
-  <a href="https://wa.me/93703802176" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/923423706291" target="_blank" rel="noopener noreferrer">
     <img title="WhatsApp Contact" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/Shafikhanbe" target="_blank" rel="noopener noreferrer">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img title="Telegram Contact" src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/Shafikhanicfu" target="_blank" rel="noopener noreferrer">
-    <img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+    <img title="Facebook Profile" src="https://www.facebook.com/shahid.jamali.903750?mibextid=ZbWKwL" alt="Facebook Profile" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t" target="_blank" rel="noopener noreferrer">
+  <a href="https://chat.whatsapp.com/Ku0WGSbMrmNAqcBs8Vx3oC?mode=ems_copy_c" target="_blank" rel="noopener noreferrer">
     <img title="WhatsApp group" src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp group" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t" target="_blank" rel="noopener noreferrer">
+  <a href="https://chat.whatsapp.com/Ku0WGSbMrmNAqcBs8Vx3oC?mode=ems_copy_c" target="_blank" rel="noopener noreferrer">
     <img title="Bot Support Group" src="https://img.shields.io/badge/Bot_Support_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Support Group" />
   </a>
 </p>
@@ -195,7 +195,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+king+bot+by+Shafu+pathan;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+king+bot+by+SHAHI D+MD;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
 </h3>
 
 ---
